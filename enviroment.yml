@@ -1,0 +1,24 @@
+name: sentimental140
+channels:
+  - conda-forge
+  - defaults
+  - anaconda
+dependencies:
+  - black
+  - ipykernel
+  - jupyter=1.0.0
+  - matplotlib=3.2.1
+  - numpy=1.18.1
+  - pandas=1.0.1
+  - pip=20.0.2
+  - python=3.7
+  - scikit-image=0.16.2
+  - scikit-learn=0.22.1
+  - scipy=1.4.1
+  - simpleitk=1.2.4
+  - keras=2.3.1
+  - gensim=3.8.0
+  - nltk=3.4.5
+  - pip:
+      - tensorflow==2.2
+      - tensorboard==2.2
