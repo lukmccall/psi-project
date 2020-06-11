@@ -84,7 +84,7 @@ Celem projektu było stworznie module, który byłby w stanie na podstawie tekst
 
 Na powyższym rysunku znajduje się wykres porównujący wszystkie 4 modele. Łatwo możemy zauważyć, że algorytm oznaczony jako **`LSTM_V1`** sprawdza się najlepiej. Bardziej szczegółowa analiza znajduje się w pliku [summary](https://github.com/lukmccall/psi-project/blob/master/summary.ipynb).
 
-## 🚀 Uruchomienie projektu
+## 🚀 Jak uruchomić projekt
 
 1. Sklonuj reposytorium
 
